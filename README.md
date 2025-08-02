@@ -77,4 +77,5 @@ This interactive Power BI dashboard analyzes Netflix's vast content library to u
 4. Review insights and take screenshots for portfolio use.
 
 ---
+![image alt](<img width="1192" height="681" alt="Netflix Dashboard" src="https://github.com/user-attachments/assets/7aff6249-933f-4272-97fa-3eafa399a60a/>)
 
